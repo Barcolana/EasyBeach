@@ -49,7 +49,7 @@ Email: emilyman@hotmail.it
 
 GitHub: https://github.com/Barcolana/EasyBeach
 
-Posizione: [facoltativa]
+Posizione: [Posizione: Personalizzabile per qualsiasi paese con stabilimenti balneari]
 
 🔒 Licenza
 Il software è disponibile per licenza commerciale. Non è open source.
